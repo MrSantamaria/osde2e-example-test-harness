@@ -1,2 +1,2 @@
 # Ignore the test binary
-prow-operator-test-harness.test
+osde2e-example-test-harness.test

@@ -1,4 +1,4 @@
-# prow-operator-test-harness
+# osde2e-example-test-harness
 
 This is an example test harness meant for testing the prow operator addon. It does the following:
 
